@@ -28,8 +28,8 @@ Este projeto é o backend do desafio técnico da Anka Tech, desenvolvido em Node
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
-cd seu-repo/backend
+git clone https://github.com/VHAlvesS/caseAnka-backend.git
+cd caseAnka-backend
 ```
 
 2. Suba os containers com Docker Compose:
